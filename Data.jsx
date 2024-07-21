@@ -192,7 +192,7 @@ export const projects = [
         name: "Game Listing App",
         description: "game listing app where you can see top games name and their ratings.you can find games through search by genre",
         image_path: gamelist,
-        deployed_url: 'games-listing-app-rosy.vercel.app',
+        deployed_url: 'https://games-listing-app-rosy.vercel.app',
         github_url: 'https://github.com/ChandanRx/GamesListingApp',
         category: ["react"],
         key_techs: ["React"]
@@ -202,7 +202,7 @@ export const projects = [
         name: "Weather App",
         description: "This shows a weather tempreture of city's which you search",
         image_path: weather,
-        deployed_url: 'weather-app-virid-sigma.vercel.app',
+        deployed_url: 'https://weather-app-virid-sigma.vercel.app',
         github_url: 'https://github.com/ChandanRx/Weather_App',
         category: ["react"],
         key_techs: ["React"]
@@ -222,7 +222,7 @@ export const projects = [
         name: "MyRecomShows",
         description: "in this site i share a details of my recommanded shows and provided link of those shows",
         image_path: myrecom,
-        deployed_url: 'my-recom-shows.vercel.app',
+        deployed_url: 'https://my-recom-shows.vercel.app',
         github_url: 'https://github.com/ChandanRx/MyRecomShows',
         category: ["react"],
         key_techs: ["React"]
@@ -232,7 +232,7 @@ export const projects = [
         name: "Guitar Chords",
         description: "in this simple guitar chords app , all basic minor and major chords of guitar sounds and a section where you learn guitar",
         image_path: guitar,
-        deployed_url: 'guitar-chords-eta.vercel.app',
+        deployed_url: 'https://guitar-chords-eta.vercel.app',
         github_url: 'https://github.com/ChandanRx/Guitar_chords',
         category: ["Javascript"],
         key_techs: ["Javascript"]
