@@ -27,7 +27,7 @@ export default function Home() {
 
   return (
     <div className="flex flex-col px-6 pt-1">
-      <h5 className="my-3 font-medium">Hey There!👋 I'm Chandan Pargi , a Application developer with a passion for creating awesome digital experiences using ReactJS , React Native , Node js , Next js. let's collaborate and create some mind-blowing project together! 💻</h5>
+      <h5 className="my-3 font-medium">Hey There!👋 I'm Chandan Pargi , a Software developer with a passion for creating awesome digital experiences using ReactJS , React Native , Node js , Next js. let's collaborate and create some mind-blowing project together! 💻</h5>
       <div className="h-full p-5 bg-gray-950" style={{ marginLeft: '-1.5rem', marginRight: '-1.5rem' }}>
         <h6 className="my-3 text-xl font-bold tracking-wide text-white">What I Know</h6>
         <motion.div
