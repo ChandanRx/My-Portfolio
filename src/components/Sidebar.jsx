@@ -27,7 +27,7 @@ const Sidebar = () => {
                 <span className='font-bold text-blue-400'>Chandan </span>
                 Pargi
             </h3>
-            <p className='px-2 py-1 my-3 text-white bg-gray-900 rounded-full'>Application Developer</p>
+            <p className='px-2 py-1 my-3 text-white bg-gray-900 rounded-full'>Software Developer</p>
 
             <a 
                className='flex items-center justify-center px-2 py-1 my-3 text-white bg-gray-900 rounded-full' 
